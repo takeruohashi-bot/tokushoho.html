@@ -1,2 +1,65 @@
-<!doctype html> <html lang="ja"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width, initial-scale=1" /> <title>特定商取引法に基づく表記 | YOUR BRAND</title> <meta name="description" content="YOUR BRANDの特定商取引法に基づく表記ページです。事業者情報、価格、支払方法、引渡時期、返品・返金、連絡先等を掲載しています。"> <style> body { font-family: system-ui, -apple-system, "Noto Sans JP", sans-serif; line-height: 1.8; margin: 0; color: #111; } main { max-width: 900px; margin: auto; padding: 24px 16px 48px; } h1 { font-size: 1.6rem; margin: 8px 0 16px; } h2 { font-size: 1.2rem; margin: 24px 0 8px; } dl { margin: 0; } dt { font-weight: 600; margin-top: 14px; } dd { margin: 4px 0 0 0; } small { color: #555; } a { color: #0b57d0; } .muted { color: #666; } @media (max-width: 640px){ body{ font-size: 16px; } } </style> </head> <body> <main> <h1>特定商取引法に基づく表記</h1> <dl> href="mailto:support@yourbrand.jp">support@yourbrand.jp</a></dd> <dt>URL</dt><dd><a href="https://yourbrand.jp">https://yourbrand.jp</a></dd> <dt>販売価格</dt><dd>各商品ページに税込価格で表示します。</dd> <dt>商品代金以外の必要料金</dt><dd>送料・各種手数料（必要な場合は商品ページまたは本ページに明記）。</dd> <dt>支払方法</dt><dd>クレジットカード（Visa/Mastercard/American Express 等）、その他決済（対応時に明記）。</dd> <dt>支払時期</dt><dd>クレジットカード：各カード会社の引き落とし規約に基づきます。</dd> <dt>引渡（提供）時期</dt> <dd>物販：決済確認後、通常◯〜◯営業日で発送。<br>デジタル商品／役務：決済後即時または個別に表示する提供開始日。</dd> <dt>返品・キャンセル・返金</dt> <dd>初期不良・誤配送は到着後◯日以内にご連絡ください。交換または返金に対応します。<br> お客様都合の返品は未開封品に限り到着後◯日以内（送料はお客様負担）。<br> デジタル商品は性質上返品・返金不可とします（法定の撤回権がある場合を除く）。</dd> <dt>不良品の取扱い</dt><dd>当社負担にて交換または返金いたします。</dd> <dt>販売数量の制限等</dt><dd>限定商品は各商品ページにて数量・条件を明記します。</dd> <dt>動作環境（デジタル商品）</dt><dd>対応OS/ブラウザは商品ページに記載します。</dd> <dt>問い合わせ窓口</dt><dd>support@yourbrand.jp（平日10:00–17:00）</dd> </dl> <h2>その他</h2> <p class="muted">当社は決済代行としてStripe等を利用し、クレジットカード情報は当社サーバーに保存しません。</p> <p><small class="muted">最終更新日：2025-10-05</small></p> </main> </body> </html>
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>特定商取引法に基づく表記 | YOUR BRAND</title>
+  <meta name="description" content="YOUR BRANDの特定商取引法に基づく表記ページです。事業者情報、価格、支払方法、提供時期、返品・返金、連絡先等を掲載しています。">
+  <style>
+    body { font-family: system-ui, -apple-system, "Noto Sans JP", sans-serif; line-height: 1.8; margin: 0; color: #111; }
+    main { max-width: 900px; margin: auto; padding: 24px 16px 48px; }
+    h1 { font-size: 1.6rem; margin: 8px 0 16px; }
+    h2 { font-size: 1.2rem; margin: 24px 0 8px; }
+    dl { margin: 0; }
+    dt { font-weight: 600; margin-top: 14px; }
+    dd { margin: 4px 0 0 0; }
+    small { color: #555; }
+    a { color: #0b57d0; }
+    .muted { color: #666; }
+    @media (max-width: 640px){ body{ font-size: 16px; } }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>特定商取引法に基づく表記</h1>
+
+    <dl>
+
+      <dt>URL</dt><dd><a href="https://www.threads.com/@yamatotakeru0515">https://www.threads.com/@yamatotakeru0515</a></dd>
+
+      <dt>販売価格</dt><dd>各商品ページに税込価格で表示します。</dd>
+      <dt>商品代金以外の必要料金</dt><dd>決済手数料等が発生する場合は購入手続き前に明示します。</dd>
+
+      <dt>支払方法</dt>
+      <dd>クレジットカード（Visa / Mastercard / American Express 等）、その他決済手段（対応時に明記）。</dd>
+      <dt>支払時期</dt><dd>各カード会社の引き落とし規約に基づきます。</dd>
+
+      <dt>提供時期（デジタル商品のみ）</dt>
+      <dd>決済完了後、即時にダウンロード／アクセス可能となります（個別に提供開始日を定める場合は商品ページに明記）。</dd>
+
+      <dt>返品・キャンセル・返金（デジタル商品のみ）</dt>
+      <dd>
+        デジタル商品の特性上、購入確定後の返品・キャンセル・返金はお受けできません。<br>
+        ただし、ダウンロード不能・重大な欠陥など当社起因の不具合が認められる場合は、合理的な範囲で代替提供または返金に対応します。<br>
+        具体的な条件・申請方法は商品ページまたはサポート窓口にてご案内します。
+      </dd>
+
+      <dt>不良品の取扱い（デジタル）</dt>
+      <dd>アクセス不可・ファイル破損等が確認できた場合、代替提供または返金にて対応します。</dd>
+
+      <dt>販売数量の制限等</dt><dd>制限がある場合は各商品ページに明記します。</dd>
+
+      <dt>動作環境（デジタル商品）</dt>
+      <dd>対応OS・ブラウザ・対応端末などの必要環境は各商品ページに記載します。</dd>
+
+  
+    </dl>
+
+    <h2>その他</h2>
+    <p class="muted">当サービスの決済はStripe等の決済代行を利用し、安全に処理されます。当社はクレジットカード情報を保有しません。</p>
+
+    <p><small class="muted">最終更新日：2025-10-05</small></p>
+  </main>
+</body>
+</html>
 # tokushoho.html
